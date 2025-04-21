@@ -6,6 +6,8 @@ It has:
 - Local **LLaMA model via Ollama**
 ## Setup
 1. Clone the repo
-2. Install dependencies: `pip install -r requirements.txt`
-3. Run backend: `uvicorn backend.main:app --reload`
-4. Run frontend: `streamlit run frontend/app.py`
+2. python -m venv venv
+3. source venv/bin/activate
+4. Install dependencies: `pip install -r requirements.txt`
+5. Ru backend: `uvicorn backend.main:app --reload`
+6. Run frontend: `streamlit run frontend/app.py`
