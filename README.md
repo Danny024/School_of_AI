@@ -1,2 +1,2 @@
 # School_of_AI
-Generative AI Engineer School of AI Intenship
+A 3 month Generative AI Internship with top-notch Projects.
